@@ -46,6 +46,9 @@ Recommended deployment platforms:
 - Netlify
 - Cloudflare Pages
 
+![Screenshot 2024-11-24 at 16-33-27 Travel Assistant AI](https://github.com/user-attachments/assets/273bd82f-22be-4d77-bdc9-3d2b32d1ce76)
+
+
 ## Contributing
 Contributions are welcome! Please read the contributing guidelines.
 
